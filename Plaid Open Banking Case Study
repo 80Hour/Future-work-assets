@@ -1,0 +1,63 @@
+# OPEN BANKING PLATFORM	
+
+## Overview and Origin
+
+* Plaid
+
+* Incorporated 2013
+
+* Zach Perret and William Hockey
+
+* Originally the Founders attempted to build consumer financial management products, including budgeting and bookkeeping software. When confronted with difficulties in connecting bank accounts required for these tools, they decided to pivot their core business focus to a unified banking API.
+
+
+## Business Activities:
+
+* Plaid helps fintech apps like Robinhood connect easily to consumers’ bank accounts.
+
+* Plaid’s intended customers are financial services companies who want to connect to their customers' bank account. Plaid services 11.35% of the current market for Data Quality. 
+Plaid can retrieve such things as the geolocation data for a given transaction and render it into intelligible form. As an example of the latter activity, called “cleaning”, the code “​SBXUSQ0112x” would be translated as “Starbucks Coffee, 41 Union Square, New York, New York in New York City”. One of Plaid’s tax client wanted to build an application that can identify deductible expenses in bank and credit histories.
+
+* The company provides API’s for application software to communicate with banks 
+about customer accounts via language agnostic JSON.
+
+
+## Landscape:
+
+* Plaid is in the Data Quality domain of the financial industry?
+
+* The major trends and innovations in this industry have been substantial. Companies like Robinhood and Coinbase have created a lot of momentum in the market for Plaid’s service. This will continue to build as more people become comfortable with accessing financial services via technology. 
+
+*Plaid's top competitors include Galileo Financial Technologies, Akoya, Finicity, SynapseFI, MX, N26, Codat, Xignite and Varo Money.
+
+
+ 
+
+
+
+## Results
+
+* As fintech boomed over the course of 2020, so did Plaid. Its business grew 60% last year, the company says. Annualized revenue reached about $170 million by December 2020, a source tells Forbes.
+
+* Core metrics used to measure success in this domain are public securities filings documents, customer acquisitions, third-party growth.
+
+* Plaid has grown to be 4 times as profitable as their competitors. 
+
+
+## Recommendations
+
+* If I were to advise Plaid on a new product or service it would be something similar to Metamask. A product that allows individuals to connect their crypto wallets for payment purchases. 
+
+* I think this would be a good product to offer since Plaid already has a strong brand in this space. This would also help them diversify their product offerings into the Metaverse.
+
+* To accomplish this, Plaid could partner with a company like Blokchain.com that offers a free API that developers can utilize to develop wallet applications for platforms such as Windows, macOS, Linux, iOS, and Android. The API also supports languages such as Java, Python, and Ruby. The API allows developers to quickly create a wallet application with essential functions such as Bitcoin transfers, wallet balance checking, and password setup.
+
+## Resources: 
+
+* https://en.wikipedia.org/wiki/Plaid_(company)#cite_note-10 (Plaid Wikipedia)
+* https://techcrunch.com/2013/09/19/plaid-funding/ (Plaid Raises $2.8M To Make Banking Data More Developer Friendly)
+* https://www.forbes.com/sites/jeffkauflin/2021/04/07/plaids-134-billion-valuation-makes-its-founders-fintechs-newest-billionaires/?sh=3f50b3592a22 ( Plaid’s $13.4 Billion Valuation Makes Its Founders Fintech’s Newest Billionaires)
+* https://www.slintel.com/tech/data-quality/plaid-market-share (Plaid Data Quality Tool)
+* https://craft.co/plaid/competitors (Top Plaid competitors) 
+* https://www.forbes.com/sites/forbesbusinesscouncil/2021/02/04/15-essential-business-metrics-to-track/?sh=7c7949e1773b (15 Essential Business Metrics To Track) 
+* https://www.axon.dev/blog/crypto-wallet-functionality-and-technology-stack (Crypto Wallet: Functionality and Technology Stack
